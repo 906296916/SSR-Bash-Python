@@ -31,7 +31,7 @@ ShadowsocksR多用户管理脚本（基于官方mujson版本）
 
 ## 替换安装法
 正在使用原地址下载的脚本又不想丢失数据？
-`cd /usr/local/ && rm -rf SSR-Bash-Python && git clone https://github.com/ImAnyOne/SSR-Bash-Python.git && cp SSR-Bash-Python/ssr /usr/local/bin/ssr`
+`cd /usr/local/ && rm -rf SSR-Bash-Python && git clone https://github.com/906296916/SSR-Bash-Python.git && cp SSR-Bash-Python/ssr /usr/local/bin/ssr`
 
 ## 安装 ##
     wget -N --no-check-certificate https://raw.githubusercontent.com/906296916/SSR-Bash-Python/master/install.sh && bash install.sh
@@ -43,9 +43,9 @@ ShadowsocksR多用户管理脚本（基于官方mujson版本）
     wget -N --no-check-certificate https://raw.githubusercontent.com/906296916/SSR-Bash-Python/master/self-check.sh && bash self-check.sh
 
 ## 截图 ##
-![https://raw.githubusercontent.com/ImAnyOne/SSR-Bash-Python/master/1.png](1.png)
+![https://raw.githubusercontent.com/906296916/SSR-Bash-Python/master/1.png](1.png)
 
-![https://raw.githubusercontent.com/ImAnyOne/SSR-Bash-Python/master/2.png](2.png)
+![https://raw.githubusercontent.com/906296916/SSR-Bash-Python/master/2.png](2.png)
 
 ## 参考资料 ##
 [ShadowsocksR](https://github.com/FunctionClub/shadowsocksr)
