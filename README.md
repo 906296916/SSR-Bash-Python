@@ -38,7 +38,7 @@ ShadowsocksR多用户管理脚本（基于官方mujson版本）
     apt-get update -y && apt-get install unzip zip -y && apt-get install wget -y && wget -N --no-check-certificate https://raw.githubusercontent.com/906296916/SSR-Bash-Python/master/ssr.zip && unzip ssr.zip && cd SSR* && bash install.sh
 
 ## CentOS系列 ##
-yum update -y && yum install unzip zip -y && yum install wget -y && wget -N --no-check-certificate https://raw.githubusercontent.com/906296916/SSR-Bash-Python/master/ssr.zip && unzip ssr.zip && cd SSR* && bash install.sh
+    yum update -y && yum install unzip zip -y && yum install wget -y && wget -N --no-check-certificate https://raw.githubusercontent.com/906296916/SSR-Bash-Python/master/ssr.zip && unzip ssr.zip && cd SSR* && bash install.sh
 
 ## 离线安装卸载 ##
 cd /root/SSR-Bash-Python-The-Final && bash uninstall.sh
